@@ -25,6 +25,10 @@ This includes, but is not limited to:
 
 When using, modifying, or redistributing this project or any of its parts, you must provide clear credit to the original author and the TerjeMods project. The attribution must be visible in documentation, repository descriptions, or other appropriate locations within derivative works.
 
+## Discord
+
+https://discord.gg/57f2Vs7x82
+
 ## Donation
 
 You can support me with a donation if you like this project
